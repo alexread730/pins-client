@@ -1,0 +1,12 @@
+.location-tile {
+  padding: 50px;
+  margin: 20px;
+  width: 45%;
+  height: 300px;
+  display: inline-block;
+  background-image: url("../../assets/images/demo-background.jpg");
+  background-size: 100%;
+  color: white;
+  text-align: center;
+  cursor: pointer;
+}
